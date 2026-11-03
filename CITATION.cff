@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Flower visitors in purpose-designed cover crop mixtures (Amazon–Cerrado transition, Brazil): data and analysis code"
+type: dataset
+license: CC-BY-4.0
+date-released: 2026-11-03
+authors:
+  - family-names: "Silva"
+    given-names: "Grazieli Brito da"
+    affiliation: "AGROCarbon, Universidade Federal do Maranhão"
+  - family-names: "Almeida"
+    given-names: "Jhonatan Brendo da Silva de"
+  - family-names: "Lima"
+    given-names: "Marcos Dheimy Barros"
+  - family-names: "Goulart"
+    given-names: "Marcus Vinicius Brito da Silva"
+  - family-names: "Sousa"
+    given-names: "Marilene da Costa"
+  - family-names: "Lopes"
+    given-names: "Nathanaellen Sousa"
+  - family-names: "Kerber"
+    given-names: "Veronica Dias"
+  - family-names: "Meneses"
+    given-names: "Kamila Cunha de"
+  - family-names: "Silva"
+    given-names: "Marcos Vinicius"
+  - family-names: "Costa"
+    given-names: "Carlos Alberto Araújo"
+  - family-names: "Albuquerque"
+    given-names: "Anailson Sousa"
+  - family-names: "Sousa Júnior"
+    given-names: "Antonio Deusimar Oliveira de"
+  - family-names: "Santos"
+    given-names: "Gustavo André de Araújo"
+    affiliation: "AGROCarbon, Universidade Federal do Maranhão"
+    email: "gustavo.andre@ufma.br"
+keywords:
+  - cover crops
+  - pollinators
+  - flower visitors
+  - Amazon–Cerrado transition
+  - microclimate
