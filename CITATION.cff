@@ -2,38 +2,32 @@ cff-version: 1.2.0
 message: "If you use these data or code, please cite the article and this repository."
 title: "Flower visitors in purpose-designed cover crop mixtures (Amazon–Cerrado transition, Brazil): data and analysis code"
 type: dataset
+version: 1.0.0
 license: CC-BY-4.0
-date-released: 2026-11-03
+date-released: 2026-11-08
+repository-code: "https://github.com/agrocarbon-ufma/pollinators-cover-crop-mixes"
+abstract: >-
+  Field data and analysis code for a study of flower visitors in three
+  purpose-designed cover crop mixtures (Carbon, Pollinator and Multipurpose)
+  sown on 19 July 2025 in Chapadinha, Maranhão, Brazil (Amazon–Cerrado
+  transition, dry season). The experiment follows a randomized complete block
+  design with 4 blocks and 24 plots of 5 × 5 m. Flower visitors were counted
+  visually by morphogroup in 13 timed observations (4 min per plot) from
+  24 August to 1 October 2025, together with air temperature, relative
+  humidity, wind speed and light intensity. Cover crop fresh biomass per plot
+  is also included. The analysis notebook (Python runtime with R cells)
+  reproduces all statistical tables and figures from the raw files. Data are
+  licensed CC BY 4.0; code is licensed MIT (see LICENSE.txt).
 authors:
   - family-names: "Silva"
     given-names: "Grazieli Brito da"
     affiliation: "AGROCarbon, Universidade Federal do Maranhão"
-  - family-names: "Almeida"
-    given-names: "Jhonatan Brendo da Silva de"
-  - family-names: "Lima"
-    given-names: "Marcos Dheimy Barros"
-  - family-names: "Goulart"
-    given-names: "Marcus Vinicius Brito da Silva"
-  - family-names: "Sousa"
-    given-names: "Marilene da Costa"
-  - family-names: "Lopes"
-    given-names: "Nathanaellen Sousa"
-  - family-names: "Kerber"
-    given-names: "Veronica Dias"
-  - family-names: "Meneses"
-    given-names: "Kamila Cunha de"
-  - family-names: "Silva"
-    given-names: "Marcos Vinicius"
-  - family-names: "Costa"
-    given-names: "Carlos Alberto Araújo"
-  - family-names: "Albuquerque"
-    given-names: "Anailson Sousa"
-  - family-names: "Sousa Júnior"
-    given-names: "Antonio Deusimar Oliveira de"
+    orcid: "https://orcid.org/0009-0006-7796-5232"
   - family-names: "Santos"
     given-names: "Gustavo André de Araújo"
     affiliation: "AGROCarbon, Universidade Federal do Maranhão"
     email: "gustavo.andre@ufma.br"
+    orcid: "https://orcid.org/0000-0002-7922-9902"
 keywords:
   - cover crops
   - pollinators
